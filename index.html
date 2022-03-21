@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="description"
+      content="a webpage that demonstrates haiku(alt text) chrome extension"
+    />
+    <meta name="keywords" content="haikus, text, alt text, chrome extension" />
+    <meta name="author" content="Anna Garbier & Lan Zhang" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Haiku(alt text)</title>
+  </head>
+  <body>
+    <div class="header">
+      <h2>Haiku(alt text)</h2>
+      <p class="intro">
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
+        illo inventore veritatis et quasi architecto beatae vitae dicta sunt
+        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
+        odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+        voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum
+        quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam
+        eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
+        voluptatem. Ut enim ad minima veniam
+      </p>
+      <p>by Anna Garbier & Lan Zhang</p>
+    </div>
+    <div class="main">
+      <a class="item">
+        <img
+          class="backdrop"
+          src="images/01.png"
+          alt="an image google search in a chrome browser window with the keyword 'bread'. There are twelve to fourteen image search results of various kinds of bread."
+        />
+        <div class="haiku" id="haiku-01">
+          <p>Hello hello</p>
+          <p>Hello hello hello</p>
+          <p>Hello hello</p>
+        </div>
+        <p class="caption">
+          et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam
+        </p>
+      </a>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"
+      integrity="sha512-5efjkDjhldlK+BrHauVYJpbjKrtNemLZksZWxd6Wdxvm06dceqWGLLNjZywOkvW7BF032ktHRMUOarbK9d60bg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="./data.js"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>

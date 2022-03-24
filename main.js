@@ -1,13 +1,24 @@
 const mainArea = document.querySelector("#main");
 
-data.forEach((item) => {
-  //create span tag
+for (let i = 0; i < data.length; i++) {
+  let item = data[i];
   let newItem = document.createElement("span");
   newItem.classList.add("item");
   newItem.setAttribute("id", `${data.indexOf(item)}`);
-  newItem.innerText = `${item.alt}, `;
+  i == data.length - 1
+    ? (newItem.innerText = `and ${item.alt}.`)
+    : (newItem.innerText = `${item.alt}, `);
   mainArea.appendChild(newItem);
-});
+}
+
+// data.forEach((item) => {
+//   //create span tag
+//   let newItem = document.createElement("span");
+//   newItem.classList.add("item");
+//   newItem.setAttribute("id", `${data.indexOf(item)}`);
+//   newItem.innerText = `${item.alt}, `;
+//   mainArea.appendChild(newItem);
+// });
 
 const items = document.querySelectorAll(".item");
 const bgImg = document.querySelector("#bgImg");

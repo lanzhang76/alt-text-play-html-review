@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  line-height: 1.5em;
 }
 
 body {
@@ -33,23 +34,6 @@ p {
 .item.active {
   background: #add33f;
   font-weight: bold;
-}
-
-.haiku {
-  z-index: 1;
-  position: absolute;
-  background: white;
-  padding: 40px;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgb(0 0 0 / 20%);
-}
-
-.haiku p {
-  opacity: 0;
-}
-
-.caption {
-  font-size: 0.7em;
 }
 
 #bg {

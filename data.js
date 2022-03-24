@@ -222,6 +222,10 @@ const data = [
     src: "https://media.newyorker.com/photos/623500c0cc91639ccf850fd1/master/w_1600%2Cc_limit/1_ChanPark_Y2K.jpg",
   },
   {
+    alt: "Google",
+    src: "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png",
+  },
+  {
     alt: "Bloomberg",
     src: "https://cdn.sstatic.net/Img/product/teams/logos/bloomberg-alt.svg?v=9fc4f6650377",
   },
@@ -594,8 +598,100 @@ const data = [
     src: "https://images.outbrainimg.com/transform/v3/eyJpdSI6IjRmNWFlMzkyMjE5ZDg2MWI2NDgwZjNkMmNlZTExN2JmYjQ5NGUzNGIzNDhlOTE5Yzk4YWZiNTNlMGM4M2ZiYjQiLCJ3IjoyNTAsImgiOjI1MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp",
   },
   {
-    alt: "Arctic Code Vault Contributor",
-    src: "https://github.githubassets.com/images/modules/profile/badge--acv-64.png",
+    alt: "Credit Cards You Should Not Ignore If You Have Excellent Credit",
+    src: "https://images.outbrainimg.com/transform/v3/eyJpdSI6IjY4NWU4YjBhYjRmYmJiNTJiOTljMDQ2OWQwOGU1YjA4ODI0OWRiMDM2MjQyMzIzZWM3OTFjN2I3MGRmYzlhNTUiLCJ3IjoyNTAsImgiOjI1MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp",
+  },
+  {
+    alt: "How to buy Apple devices without paying Apple prices",
+    src: "https://images.outbrainimg.com/transform/v3/eyJpdSI6IjQ5ZDQ2M2U0ZGVmNGZmYzk5Yjk4MjEyNTIwOGVkYjk5ODk3ZjRjODU2MGM5ZDNkYzQyZGYwMTBkMTA3YjYzZmUiLCJ3IjoyNTAsImgiOjI1MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp",
+  },
+  {
+    alt: "Don't Sell Your Old Mac. Check Out Some Of The Coolest Tricks To Give Your Mac A Second Life",
+    src: "https://images.outbrainimg.com/transform/v3/eyJpdSI6IjU3MzA4MmIzNjZhMjkyY2Y2YTRjODBlODMxNGYyYjZhNjkwYTEyODMyYWUzOTliYjAwNDZkODYzZGU2YjQyNzQiLCJ3IjoyNTAsImgiOjI1MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp",
+  },
+  {
+    alt: "Fearlessly shift to cloud resilliance - with Fortify",
+    src: "https://images.outbrainimg.com/transform/v3/eyJpdSI6ImQ0N2ZlZmFhNGNiMjBkZjliYWY2MTM0ZTlkMjJiYmRkNDljODExYTQxMzhlZmU3NjAwZmQ3NWY0OWNhYmFjOGMiLCJ3IjoyNTAsImgiOjI1MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp",
+  },
+  {
+    alt: "Born Billionaires: The Cannon Family Is Among The Richest In America",
+    src: "https://images.outbrainimg.com/transform/v3/eyJpdSI6IjJlMTZiMWEyZTYxODg4NjlkM2I5YjA3NDg4YjAxMjkwYWI3NzhjMjQzYjRkMzk3OTVmYWIwNTBjMzIwMTNiZTkiLCJ3IjoyNTAsImgiOjI1MCwiZCI6MS41LCJjcyI6MCwiZiI6NH0.webp",
+  },
+  {
+    alt: "Markdown Guide",
+    src: "https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg",
+  },
+  {
+    alt: "Tux, the Linux mascot",
+    src: "https://mdg.imgix.net/assets/images/tux.png",
+  },
+  {
+    alt: "The San Juan Mountains are beautiful",
+    src: "https://mdg.imgix.net/assets/images/san-juan-mountains.jpg",
+  },
+  {
+    alt: "An old rock in the desert",
+    src: "https://mdg.imgix.net/assets/images/shiprock.jpg",
+  },
+  {
+    alt: "Markdown Guide book cover",
+    src: "https://mdg.imgix.net/assets/images/book-cover.jpg",
+  },
+  {
+    alt: "Sponsored: Retool",
+    src: "https://media.ethicalads.io/media/images/2022/03/300x600_4wuWav2.png",
+  },
+  {
+    alt: "View Forest Green Linen Curtain Panel 48'x120' - image 1 of",
+    src: "https://cb2.scene7.com/is/image/CB2/LinenPnlForestGrn96inSHS19?$web_pdp_main_carousel_thumb_md$",
+  },
+  {
+    alt: "View Forest Green Linen Curtain Panel 48'x120' - image 2 of",
+    src: "https://cb2.scene7.com/is/image/CB2/LinenPnlForestGrn96inROS19?$web_pdp_main_carousel_thumb_md$",
+  },
+  {
+    alt: "View Forest Green Linen Curtain Panel 48'x120' - image 3 of",
+    src: "https://cb2.scene7.com/is/image/CB2/IBeamBlackMarbleSideTableJN21_1x1?$web_pdp_main_carousel_thumb_md$",
+  },
+  {
+    alt: "View Forest Green Linen Curtain Panel 48'x120' - image 4 of",
+    src: "https://cb2.scene7.com/is/image/CB2/VibratoMarbleTopCredenzaJN19?$web_pdp_main_carousel_thumb_md$",
+  },
+  {
+    alt: "White",
+    src: "https://cb2.scene7.com/is/image/CB2/FrenchBelgianLinenPnlWhiteSWF15_zmGR/$web_pdp_grouper_thumb_med$/220323085015/FrenchBelgianLinenPnlWhiteSWF15_zmGR.jpg",
+  },
+  {
+    alt: "Natural",
+    src: "https://cb2.scene7.com/is/image/CB2/FrenchBelgianLinenPnlNaturalSWF15_zmGR/$web_pdp_grouper_thumb_med$/220323085015/FrenchBelgianLinenPnlNaturalSWF15_zmGR.jpg",
+  },
+  {
+    alt: "Forest Green",
+    src: "https://cb2.scene7.com/is/image/CB2/LinenPnlForestGrn96inROS19_zmGR/$web_pdp_grouper_thumb_med$/220323085015/LinenPnlForestGrn96inROS19_zmGR.jpg",
+  },
+  {
+    alt: "Silver Grey",
+    src: "https://cb2.scene7.com/is/image/CB2/FrenchBelgianLinenPnlSilverGreySWF15_zmGR/$web_pdp_grouper_thumb_med$/220323085015/FrenchBelgianLinenPnlSilverGreySWF15_zmGR.jpg",
+  },
+  {
+    alt: "Black",
+    src: "https://cb2.scene7.com/is/image/CB2/LinenPanelBlack84inROS17_zmGR/$web_pdp_grouper_thumb_med$/220323085301/LinenPanelBlack84inROS17_zmGR.jpg",
+  },
+  {
+    alt: "Sienna",
+    src: "https://cb2.scene7.com/is/image/CB2/LinenSiennaPanel96inAV2SHF21_zmGR/$web_pdp_grouper_thumb_med$/220323090129/LinenSiennaPanel96inAV2SHF21_zmGR.jpg",
+  },
+  {
+    alt: "Linen Black Curtain Panel 48'x",
+    src: "https://cb2.scene7.com/is/image/CB2/LinenPanelBlack96SHF18/$web_pdp_carousel_med$/190905023532/linen-black-curtain-panel.jpg",
+  },
+  {
+    alt: "Heavyweight Natural Linen Curtain Panel 48'x",
+    src: "https://cb2.scene7.com/is/image/CB2/HeavyweightNatLnCrtPnl96inSHF19/$web_pdp_carousel_med$/190612153046/heavyweight-natural-linen-curtain-panel.jpg",
+  },
+  {
+    alt: "Heavyweight White Linen Curtain Panel 48'x",
+    src: "https://cb2.scene7.com/is/image/CB2/HeavyweightWhtLnCrtPnl96inSHF19/$web_pdp_carousel_med$/210706112957/heavyweight-white-linen-curtain-panel.jpg",
   },
   {
     alt: "@lanzhang",

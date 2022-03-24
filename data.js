@@ -694,6 +694,26 @@ const data = [
     src: "https://cb2.scene7.com/is/image/CB2/HeavyweightWhtLnCrtPnl96inSHF19/$web_pdp_carousel_med$/210706112957/heavyweight-white-linen-curtain-panel.jpg",
   },
   {
+    alt: "Syndicated Bar Theather kitchen",
+    src: "https://secureservercdn.net/45.40.146.38/085.828.myftpupload.com/wp-content/uploads/2016/01/SyndicatedBK-Restaurant-Movie-Theater-and-Bar-in-Bushwick-Brooklyn-AppleiPadIconRetina.png",
+  },
+  {
+    alt: "Various menu items",
+    src: "https://secureservercdn.net/45.40.146.38/085.828.myftpupload.com/wp-content/uploads/2018/10/IMG_9306.jpg",
+  },
+  {
+    alt: "Stadium seating movie theater, with stairs on both sides and long bench seat rows",
+    src: "https://secureservercdn.net/45.40.146.38/085.828.myftpupload.com/wp-content/uploads/2016/12/Syndicated-Theater-in-Bushwick-Brooklyn-by-Michael-Tulipan.jpg",
+  },
+  {
+    alt: "Shot of the Sidewalk Cinema at night showing Wes Anderson's Moonrise Kingdom",
+    src: "https://secureservercdn.net/45.40.146.38/085.828.myftpupload.com/wp-content/uploads/2020/09/EDB3A104-018C-4173-BFA9-36AC7D2B2532-2.jpg",
+  },
+  {
+    alt: "Host an event",
+    src: "https://secureservercdn.net/45.40.146.38/085.828.myftpupload.com/wp-content/uploads/2020/02/Wedding-Cake-scaled.jpg",
+  },
+  {
     alt: "@lanzhang",
     src: "https://avatars.githubusercontent.com/u/42923290?s=30&u=73ec2b217245c3432b414a7a4f4fb5cf9ec74038&v=4",
   },

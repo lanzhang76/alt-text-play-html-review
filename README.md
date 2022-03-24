@@ -8,13 +8,13 @@ By Anna Garbier and Lan Zhang
 
 ## What we used to write "Today, we saw"
 
-We made a chrome extension tool for our play with forms and materials of the web - ["What I saw"](https://github.com/lanzhang76/alt-text-play-extension). At the extension's current stage, it can extract alt text of images on the web page you are browsing, the raw image javascript object containing the alt text and source data, and a bonus fun feature - a haiku generator.
+We made a chrome extension for our play experiment with forms and materials found on the web - ["Today, I saw"](https://github.com/lanzhang76/alt-text-play-extension). At the extension's current stage, it can extract alt text of images on the web page you are browsing, the raw image javascript object containing the alt text and source data, and a bonus fun feature - a haiku generator.
 
 ![Screengrab](/images/preview01.png)
 
 ## How to run this web page?
 
-You can clone the repo and use a simple live server through VSCode or drag index.html into your Chrome browser.
+You can clone this repo and use a simple live server through VSCode or drag index.html into your Chrome browser.
 
 ## Does it require internet to work?
 
